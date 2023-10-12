@@ -1,0 +1,19 @@
+.h1{
+	color: skyblue;
+	background-color: dimgray;
+}
+h2{	
+	color: navajowhite;
+	background-color: purple;
+}
+.h1{
+	border: 4px solid silver;
+}
+aside {
+				width:20%;
+				padding-left: 10px;
+				margin-left: 10px;
+				float: right;
+				font-style: italic;
+				background-color: lightgray;
+			}
